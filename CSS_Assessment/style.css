@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  header {
+    width: 100%;
+    Text-align:center;
+    color: black;
+    background: gray;
+  }
+
+  section {
+    Margin-top:5px;
+  }
+
+  #twobox {
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    background-color: white;
+    color: white;
+  }
+  
+  #left {
+    float: left;
+    padding: 200px 0px 200px 0px;
+    width: 50%;
+    background-color: blue;
+    color: black;
+    text-align: center;
+  }
+
+  #right {
+    float: right;
+    padding: 200px 0px 200px 0px;
+    width: 25%;
+    background-color: red;
+    color: black;
+    text-align: center;
+  }
+
+  footer {
+      Clear:both;
+      Margin-top: 200px;
+      width:100%;
+      Text-align:center;
+      background-color: darkgreen;
+      color:black;
+  }
