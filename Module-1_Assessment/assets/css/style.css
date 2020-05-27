@@ -1,9 +1,13 @@
 body {
     margin: auto;
     max-width: 960px;
-    background-image: url("../images/triangle-mosaic.png");
+    background-image: url("../images/double-bubble-dark.png");
     background-color: #4aaaa5;
     color:#777777;
+  }
+
+  header {
+
   }
 
   .navbar-expand {
@@ -23,6 +27,7 @@ body {
   }
   .container { 
     position: relative;
+    background-color:#ffffff;
   }
   
   /* Bottom right text */
