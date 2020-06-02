@@ -18,7 +18,12 @@
   section {
     text-align: center;
     font-weight: bold;
-    font-size: 20 px;
-    color: black;
+    font-size: 24px;
+    color: black
   }
+  section .game {
+    font-size: 20px;
+    color: blue;
+  }
+  
   
